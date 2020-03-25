@@ -1,0 +1,8 @@
+knex: npx knex "tras a listagem de comandos do KNEX"
+Criando a migration
+npx knex migrate:make create_ongs.
+Criando a tabela apos geração do migration
+npx knex migrate:latest
+
+
+Cors: npm install cors
