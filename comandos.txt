@@ -19,3 +19,5 @@
 	.npm install react-icons
 - Paginação
 	.npm install react-router-dom
+- Client Http
+	.npm install axios
