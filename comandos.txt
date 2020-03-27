@@ -21,3 +21,18 @@
 	.npm install react-router-dom
 - Client Http
 	.npm install axios
+
+Comando para Dev Mobile
+- Expo
+	.npm install -g expo-cli
+-Reac Native
+	.npm install @react-navigation/native
+	.expo install expo-constants
+	.expo install expo-mail-composer
+	.https://reactnavigation.org/docs/getting-started
+- Client Http
+	.npm install axios
+- Pacote de formatacao
+	.npm install intl
+
+
