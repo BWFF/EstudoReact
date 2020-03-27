@@ -34,5 +34,7 @@ Comando para Dev Mobile
 	.npm install axios
 - Pacote de formatacao
 	.npm install intl
+- Validação
+	.npm install celebrate
 
 
