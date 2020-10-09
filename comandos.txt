@@ -5,7 +5,7 @@
 - Criar o package do node
 	.npm init -y
 - Criar o React
-	. npx create-react-app "nome do Projeto"
+	. npx create-react-app "nome do Projeto" - Cria o projeto FrontEnd.
 	. terminal do vsCode - npm start
 - Criar o Banco
 	.npm install knex
